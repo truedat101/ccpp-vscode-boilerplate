@@ -5,10 +5,10 @@ The goal of this repository is to allow anyone to quickly migrate over from Visu
 ## Required Software
 
 - VSCode : https://code.visualstudio.com
-- Modules for VSCode:
--- C/C++ for VSCode https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools#review-details
--- Native Debug: https://marketplace.visualstudio.com/items?itemName=webfreak.debug#review-details
--- C/C++ Advanced Lint (clang) https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint&ssr=false
+- Modules for VSCode
+- C/C++ for VSCode https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools#review-details
+- Native Debug: https://marketplace.visualstudio.com/items?itemName=webfreak.debug#review-details
+- C/C++ Advanced Lint (clang) https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint&ssr=false
 - cmake
 
 ## Building
